@@ -1,6 +1,6 @@
 # Universities — CSC Type B 2027–2028
 
-Authoritative database. Target-session date fields remain Unknown unless confirmed for 2027 intake. Historical details carry their evidence year. UNVERIFIED entries are candidates, not confirmed opportunities.
+Authoritative database. Target-session dates remain Unknown unless confirmed for 2027 intake; multi-stage dates identify the university stage. Historical requirements/benefits retain their evidence year. Programme availability does not guarantee scholarship funding for every major.
 
 ## Anhui
 
@@ -52,29 +52,29 @@ Authoritative database. Target-session date fields remain Unknown unless confirm
 | city | Hefei |
 | csc_type_b_status | PREVIOUS_YEAR_EVIDENCE |
 | agency_number | 10359 |
-| scholarship_url | https://admission.hfut.edu.cn/html/article_content/202511/BBE8AB232B8E4821946363DD6DE8C6B3.shtml |
+| scholarship_url | https://iec.hfut.edu.cn/2026/0928/c14891a323515/page.htm |
 | admissions_url | https://admission.hfut.edu.cn/ |
-| masters_programs_url | https://admission.hfut.edu.cn/html/article_content/202511/BBE8AB232B8E4821946363DD6DE8C6B3.shtml |
-| english_taught_masters | Unknown |
+| masters_programs_url | https://iec.hfut.edu.cn/_upload/article/files/d6/e7/460220424622b82c76dd22e6e3aa/9f17985e-9a27-4b7c-bca7-5a3dd320ab11.xlsx |
+| english_taught_masters | 2026: English Language and Literature; Foreign Linguistics and Applied Linguistics |
 | application_opening_date | Unknown |
 | application_deadline | Unknown |
 | ielts_requirement | 2026: IELTS 6.0; alternatives TOEFL 85 / Essentials 9 / Duolingo 100 |
-| ielts_waiver | Unknown |
-| english_proficiency_certificate | Unknown |
-| tuition_coverage | Unknown |
-| accommodation_coverage | Unknown |
+| ielts_waiver | Yes, conditional (previous degree taught in English) |
+| english_proficiency_certificate | Yes: previous-degree medium-of-instruction proof accepted |
+| tuition_coverage | 2026: Covered |
+| accommodation_coverage | 2026: On-campus accommodation or off-campus subsidy |
 | monthly_stipend | Unknown |
-| medical_insurance | Unknown |
+| medical_insurance | 2026: Comprehensive insurance covered |
 | application_fee | 2026: CNY 400, non-refundable after initial review |
 | application_portal | https://admission.hfut.edu.cn/ |
 | verification_date | 2026-11-02 |
 | evidence_session | 2026 intake |
 | evidence_opening_date | Unknown |
 | evidence_deadline | University: 2026-02-28; CSC: 2026-03-20 |
-| priority_masters | Unknown |
+| priority_masters | Yes: Computer Science and Technology (Chinese-taught masters) |
 | applications_open | Unknown |
-| source_ids | S04 |
-| remarks | Official indexed guide explicitly specifies B and 10359 and admits masters. Direct retrieval returned 502. Appendix 1 majors not inspected; funding details pending. No 2027 dates verified. |
+| source_ids | S04; S12; S13 |
+| remarks | S12 directly accessible official Chinese guide resolves funding/MOI gaps; S04 still 502. S13 Sheet2 lists computing masters in Chinese; Sheet1 English-capable computing is doctoral, not masters. S12 URL/publication metadata postdate deadlines but title/body consistently 2026 intake; not 2027 evidence. Living allowance amount Unknown. |
 
 ### Anhui Normal University
 
@@ -158,8 +158,8 @@ Authoritative database. Target-session date fields remain Unknown unless confirm
 | aliases | AHU |
 | region | Anhui |
 | city | Hefei |
-| csc_type_b_status | UNVERIFIED |
-| agency_number | Unknown |
+| csc_type_b_status | PREVIOUS_YEAR_EVIDENCE |
+| agency_number | 10357 |
 | scholarship_url | https://sie.ahu.edu.cn/_upload/article/files/cf/ee/3543c52a4212b79315534aeeb995/98db637b-5d63-40a2-9d4b-1db3300f3701.pdf |
 | admissions_url | https://sie.ahu.edu.cn/ |
 | masters_programs_url | https://studyinchina.csc.edu.cn/ |
@@ -181,5 +181,187 @@ Authoritative database. Target-session date fields remain Unknown unless confirm
 | evidence_deadline | 2026-03-15 17:00 UTC+08 |
 | priority_masters | Unknown |
 | applications_open | Unknown |
-| source_ids | S08 |
-| remarks | Official University Program brochure admits masters but does not explicitly state CSC B or agency number. Classification held UNVERIFIED pending explicit evidence. Phrase English proficiency certificate specifies test scores; MOI waiver not established. Major list delegated to CSC system. |
+| source_ids | S08; S11 |
+| remarks | S11 official scholarship brochure explicitly links masters University Program to CSC Type B and 10357; brochure year not stated. S08 supplies 2026/2027 admission evidence. No 2027 confirmation. English certificate wording specifies test scores; MOI waiver not established. |
+
+### Anhui Medical University
+
+| Field | Value |
+| --- | --- |
+| id | anhui-ahmu |
+| university_name | Anhui Medical University |
+| chinese_name | 安徽医科大学 |
+| aliases | AHMU |
+| region | Anhui |
+| city | Hefei (Feixi County) |
+| csc_type_b_status | PREVIOUS_YEAR_EVIDENCE |
+| agency_number | 10366 |
+| scholarship_url | https://gjy.ahmu.edu.cn/2025/1126/c6038a193883/page.htm |
+| admissions_url | https://gjy.ahmu.edu.cn/jxjzs/list.htm |
+| masters_programs_url | https://gjy.ahmu.edu.cn/2025/1126/c6038a193883/page.htm |
+| english_taught_masters | Unknown |
+| application_opening_date | Unknown |
+| application_deadline | Unknown |
+| ielts_requirement | 2026: IELTS 6.0 / TOEFL 80; English-medium prior-degree certification accepted; native English exempt |
+| ielts_waiver | Yes, conditional (native English or English-medium prior degree) |
+| english_proficiency_certificate | Yes: certification of prior English-medium degree |
+| tuition_coverage | Unknown |
+| accommodation_coverage | Unknown |
+| monthly_stipend | Unknown |
+| medical_insurance | Unknown |
+| application_fee | Unknown |
+| application_portal | https://studyinchina.csc.edu.cn/ |
+| verification_date | 2026-11-02 |
+| evidence_session | 2026/2027 |
+| evidence_opening_date | Unknown |
+| evidence_deadline | Recommended CSC registration by 2026-02-25 inclusive; final cutoff Unknown |
+| priority_masters | No listed AI/CS/IT discipline |
+| applications_open | Unknown |
+| source_ids | S14; S15 |
+| remarks | Chinese official notice explicitly B/10366. Three-year masters in medical/biological/psychological fields; English-language policy does not identify which majors are taught in English. No 2027 call verified. ChinaLink Type B short visits found separately and excluded from degree evidence. |
+
+## Fujian
+
+### Xiamen University
+
+| Field | Value |
+| --- | --- |
+| id | fujian-xmu |
+| university_name | Xiamen University |
+| chinese_name | 厦门大学 |
+| aliases | XMU |
+| region | Fujian |
+| city | Xiamen; Zhangzhou (programme-dependent) |
+| csc_type_b_status | CONFIRMED_2027_2028 |
+| agency_number | 10384 |
+| scholarship_url | https://admissions.xmu.edu.cn/info/1061/4630.htm |
+| admissions_url | https://admissions.xmu.edu.cn/info/1061/4630.htm |
+| masters_programs_url | https://admissions.xmu.edu.cn/Programs/English_Medium_Master_s.htm |
+| english_taught_masters | 2027: Economics; Law; Finance; Accounting; International Relations; Chemical Engineering; Chemistry; Urban Planning; Marine Affairs; Environmental Management; Biology; Design |
+| application_opening_date | 2026-12-01 |
+| application_deadline | 2027-02-20 |
+| ielts_requirement | IELTS Academic 6.0 / TOEFL iBT 80; English-medium university certificate or recognized equivalent accepted |
+| ielts_waiver | Yes, conditional (English-medium degree or English official-language country) |
+| english_proficiency_certificate | Yes: previous university English-medium certificate |
+| tuition_coverage | 2026 guide: Covered; 2027 detailed terms pending |
+| accommodation_coverage | 2026 guide: Dormitory or subsidy; 2027 detailed terms pending |
+| monthly_stipend | 2026 guide: CNY 3000/month; 2027 amount Unknown |
+| medical_insurance | 2026 guide: CNY 800/year; 2027 terms pending |
+| application_fee | 2027: CNY 400, non-refundable |
+| application_portal | http://application.xmu.edu.cn/ |
+| verification_date | 2026-11-02 |
+| evidence_session | 2027 intake; benefits reference 2026 only |
+| evidence_opening_date | Unknown |
+| evidence_deadline | Unknown |
+| priority_masters | Unknown |
+| applications_open | No: opens 2026-12-01 |
+| source_ids | S24; S25; S26 |
+| remarks | 2027 masters guide explicitly confirms B. Detailed scholarship page still 2026; eligible funded majors need CSC approval. No computing major appears in inspected English catalogue; Chinese catalogue pending. Two systems required. |
+
+### Huaqiao University
+
+| Field | Value |
+| --- | --- |
+| id | fujian-hqu |
+| university_name | Huaqiao University |
+| chinese_name | 华侨大学 |
+| aliases | HQU |
+| region | Fujian |
+| city | Xiamen; Quanzhou (programme-dependent) |
+| csc_type_b_status | CONFIRMED_2027_2028 |
+| agency_number | 10385 |
+| scholarship_url | https://grs.hqu.edu.cn/info/1042/25941.htm |
+| admissions_url | https://grs.hqu.edu.cn/info/1042/25941.htm |
+| masters_programs_url | https://grs.hqu.edu.cn/info/1042/22881.htm |
+| english_taught_masters | Unknown |
+| application_opening_date | 2026-10-15 (first university admission round) |
+| application_deadline | 2026-12-06 (first round); 2027-03-05 (second round) |
+| ielts_requirement | Unknown: call requires HSK 4 at least 180; Chinese-medium degree exemption available |
+| ielts_waiver | Unknown |
+| english_proficiency_certificate | Unknown |
+| tuition_coverage | Unknown |
+| accommodation_coverage | Unknown |
+| monthly_stipend | Unknown |
+| medical_insurance | Unknown |
+| application_fee | Unknown |
+| application_portal | https://hdyjs.hqu.edu.cn/recruit/login |
+| verification_date | 2026-11-02 |
+| evidence_session | 2027 fall intake |
+| evidence_opening_date | Unknown |
+| evidence_deadline | Unknown |
+| priority_masters | Yes: Software Engineering (academic/professional); Intelligent Science and Technology; Electronic Information |
+| applications_open | Yes: first university round 2026-10-15 to 2026-12-06 |
+| source_ids | S27; S28 |
+| remarks | Explicit B. Second university round 2027-02-01 to 2027-03-05. Ten recommendation places across masters/PhD, not ten guaranteed awards. University admission precedes CSC nomination; final CSC cutoff Unknown. Catalogue links software programmes to Xiamen. Coverage amounts and English-taught availability Unknown. |
+
+### Fuzhou University
+
+| Field | Value |
+| --- | --- |
+| id | fujian-fzu |
+| university_name | Fuzhou University |
+| chinese_name | 福州大学 |
+| aliases | FZU |
+| region | Fujian |
+| city | Fuzhou |
+| csc_type_b_status | PREVIOUS_YEAR_EVIDENCE |
+| agency_number | 10386 |
+| scholarship_url | https://oce.fzu.edu.cn/info/1025/7987.htm |
+| admissions_url | https://oce.fzu.edu.cn/info/1025/7987.htm |
+| masters_programs_url | https://oce.fzu.edu.cn/info/1025/7987.htm |
+| english_taught_masters | 2026: Engineering Mechanics; Geotechnical; Structural; Municipal; HVAC; Bridge/Tunnel; Traffic Safety/Disaster Prevention; Road Traffic/Disaster Prevention |
+| application_opening_date | Unknown |
+| application_deadline | Unknown |
+| ielts_requirement | 2026: IELTS Academic 6.0 / TOEFL iBT 80; university English-medium certificate accepted |
+| ielts_waiver | Yes, conditional (previous English-medium study or English official-language country) |
+| english_proficiency_certificate | Yes: previous university teaching-language certificate |
+| tuition_coverage | 2026: Covered |
+| accommodation_coverage | 2026: Covered for standard study duration |
+| monthly_stipend | Unknown |
+| medical_insurance | 2026: Covered; CNY 800/year |
+| application_fee | 2026 guide: no enrollment fee; separate application fee Unknown |
+| application_portal | https://studyinchina.csc.edu.cn/ |
+| verification_date | 2026-11-02 |
+| evidence_session | 2026 intake |
+| evidence_opening_date | Unknown |
+| evidence_deadline | 2026-02-20: CSC submission and hard-copy materials |
+| priority_masters | Unknown |
+| applications_open | Unknown |
+| source_ids | S29 |
+| remarks | Explicit B. University also requires mailed paper application; email alone invalid. General May 15 deadline does not apply to CSC. Guide contains 2025 age-reference/result-date remnants, flagged for clarification. English masters list is civil engineering; Chinese catalogue still pending. Stipend amount Unknown. |
+
+### Fujian Normal University
+
+| Field | Value |
+| --- | --- |
+| id | fujian-fjnu |
+| university_name | Fujian Normal University |
+| chinese_name | 福建师范大学 |
+| aliases | FJNU |
+| region | Fujian |
+| city | Fuzhou |
+| csc_type_b_status | CONFIRMED_2027_2028 |
+| agency_number | 10394 |
+| scholarship_url | https://iccs.fjnu.edu.cn/ed/65/c6596a453989/page.htm |
+| admissions_url | https://iccs.fjnu.edu.cn/6596/list.htm |
+| masters_programs_url | https://studyinchina.csc.edu.cn/ |
+| english_taught_masters | Unknown |
+| application_opening_date | Unknown |
+| application_deadline | 2027-01-08 |
+| ielts_requirement | IELTS or TOEFL; minimum score Unknown; English-medium degree / native or official English-language exemption |
+| ielts_waiver | Yes, conditional (English-medium degree or native/official English language) |
+| english_proficiency_certificate | Yes, conditional: proof supporting English-medium degree exemption; exact certificate format Unknown |
+| tuition_coverage | Covered |
+| accommodation_coverage | On-campus accommodation covered |
+| monthly_stipend | CNY 3000/month |
+| medical_insurance | Covered |
+| application_fee | Unknown |
+| application_portal | https://studyinchina.csc.edu.cn/ |
+| verification_date | 2026-11-02 |
+| evidence_session | 2027 intake |
+| evidence_opening_date | Unknown |
+| evidence_deadline | Unknown |
+| priority_masters | Unknown |
+| applications_open | Unknown |
+| source_ids | S30 |
+| remarks | Explicit B. Opening date not stated, so open status Unknown. Majors/languages delegated to CSC system; no inspected computing catalogue. Supervisor acceptance letter required; submit documents through CSC and send electronic package to university as instructed. No email sent by research agent. |

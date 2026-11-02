@@ -1,34 +1,34 @@
 # Progress
 
 Last updated date: 2026-11-02 (Asia/Karachi)
-Total universities discovered: 5
+Total universities discovered: 10
 Universities published to GitHub: 0
-New universities since last successful push: 5
-Next GitHub upload threshold: 20 total discoveries (15 more)
-Confirmed 2027–2028 universities: 1
-Previous-year Type B universities: 3
-Unverified universities: 1
-MS AI/CS/IT universities: 2 (USTC and AAU; AAU computing is not marked English-taught)
-Universities accepting English Proficiency Certificates: 1 (AHNU; explicit university-issued English-medium proof)
-Universities with IELTS waivers: 3 (conditional; USTC, AHNU, AAU; policies span different evidence years)
+New universities since last successful push: 10
+Next GitHub upload threshold: 20 total discoveries (10 more)
+Confirmed 2027–2028 universities: 4
+Previous-year Type B universities: 6
+Unverified universities: 0 (unresolved leads kept outside eligible university database)
+MS AI/CS/IT universities: 4 (USTC, HFUT, AAU, HQU; instruction language varies; programme funding still subject to approval)
+Universities accepting English Proficiency Certificates: 6 (AHNU, HFUT, AHMU, XMU, FZU, FJNU conditional English-medium proof)
+Universities with IELTS waivers: 8 (conditional; evidence years vary; not eight confirmed 2027 English-medium opportunities)
 Universities without IELTS requirements: 0 established unconditional waivers
-Universities with open 2027 CSC applications: 1 (USTC; announced window, portal submission not tested)
+Universities with open 2027 CSC applications: 2 announced-open routes: USTC and HQU first university admission round; FJNU opening Unknown
 Completed regions: 0
-In-progress regions: 1 (Anhui)
-Pending regions: 31
-Failed sources: S04 direct HTTP 502; S09 legacy PDF HTTP 404
+In-progress regions: 1 (Fujian); 1 NEEDS_VERIFICATION (Anhui)
+Pending regions: 30 NOT_STARTED; 32 regions not yet fully completed
+Failed sources: S04 remains HTTP 502; S09 legacy PDF HTTP 404; Anqing admissions index timeout. HFUT catalogue unsupported by web reader but successfully downloaded; working S12 replaces S04 for direct evidence.
 GitHub repository: https://github.com/SareerAhmed/china-database
-GitHub authentication: gh installed; existing token invalid; local reauthentication requested
+GitHub authentication: verified successfully outside sandbox on 2026-11-02; HTTPS credentials available. Sandboxed gh status failure was misleading.
 Last successful push: None
 Last successful GitHub commit: None
 Publication ledger: No successful uploads; no counter reset permitted.
-Last completed research task: Batch 01, five unique Anhui records; USTC 2027 official announcement and English catalogue checked, three prior-year Type B sources identified, AHU held unverified.
-Exact next task: Continue Anhui: verify explicit CSC B and agency number for Anhui University; check remaining candidates Anhui Medical University, Anhui University of Chinese Medicine, Anhui University of Technology (Maanshan), Anhui University of Science and Technology (Huainan), Anhui Jianzhu University, Huaibei Normal University, Anqing Normal University, and Hefei University. Record exclusions and official evidence; do not re-add the five existing records. Retrieve HFUT Appendix 1 and recheck failed source S04. Then audit Anhui coverage before moving to Fujian.
+Last completed research task: Batch 02: added AHMU and four Fujian institutions; resolved AHU Type B; completed HFUT catalogue/funding/MOI follow-up; saved Anhui candidate dispositions.
+Exact next task: Continue Fujian from the four recorded universities: inspect FAFU official 2026/2027 CSC degree call (exclude provincial/university awards), then Fujian Medical University, Fujian University of Traditional Chinese Medicine, Xiamen University of Technology, Jimei University, Minnan Normal University and Quanzhou Normal University. Resolve Chinese computing catalogues for XMU/FZU when practical. Do not re-add existing ten records. After Fujian initial candidate sweep, return to Anhui audit gaps recorded in RESEARCH_LOG Batch 02 (Hefei degree/B route, current AUST guide, Anqing 2026 guide, wider directory sweep), then proceed Gansu. Publish when ten more unique records bring pending total to 20.
 
 ## Region checklist
 
-- [ ] Anhui — IN_PROGRESS (Province)
-- [ ] Fujian — NOT_STARTED (Province)
+- [ ] Anhui — NEEDS_VERIFICATION (Province)
+- [ ] Fujian — IN_PROGRESS (Province)
 - [ ] Gansu — NOT_STARTED (Province)
 - [ ] Guangdong — NOT_STARTED (Province)
 - [ ] Guizhou — NOT_STARTED (Province)

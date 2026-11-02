@@ -61,3 +61,123 @@ Assessment: Legacy indexed instructions mention B/10358 and MOI; direct fetch 40
 URL: https://ic.ustc.edu.cn/?abroad=179
 
 Assessment: Third-party discovery link led to official Winter Camp page, not fellowship. Rejected as scholarship evidence.
+
+## S11
+
+URL: https://en.ahu.edu.cn/_upload/article/files/e4/ea/308909fb41558ff70af27690abc1/f6581ab6-a77b-4fb5-be12-e1579d5f056b.pdf
+
+Assessment: Checked 2026-11-02. Official undated scholarship brochure directly read: masters University Program explicitly CSC B/10357. Complements dated S08; resolves previous unverified record.
+
+## S12
+
+URL: https://iec.hfut.edu.cn/2026/0928/c14891a323515/page.htm
+
+Assessment: Checked 2026-11-02. Official Chinese HFUT 2026 guide, direct read successful. Covers funding and previous English-medium degree proof. Post-deadline URL/publication metadata do not change intake year.
+
+## S13
+
+URL: https://iec.hfut.edu.cn/_upload/article/files/d6/e7/460220424622b82c76dd22e6e3aa/9f17985e-9a27-4b7c-bca7-5a3dd320ab11.xlsx
+
+Assessment: Checked 2026-11-02. Official HFUT Appendix 1 XLSX downloaded and inspected using openpyxl. Sheet2 master CS Chinese; only two language master majors English. Sheet1 is doctoral. Web reader unsupported MIME; curl succeeded.
+
+## S14
+
+URL: https://gjy.ahmu.edu.cn/2025/1126/c6038a193883/page.htm
+
+Assessment: Checked 2026-11-02. Official Chinese AHMU 2026/2027 notice explicitly B/10366. Recommended registration date, not hard final deadline. Masters catalogue included.
+
+## S15
+
+URL: https://lxszs.ahmu.edu.cn/2025/1126/c6092a193879/page.htm
+
+Assessment: Checked 2026-11-02. Official English AHMU guide: IELTS/TOEFL or English-medium degree proof; no per-major English language mapping.
+
+## S16
+
+URL: https://en.ahut.edu.cn/info/1050/1648.htm
+
+Assessment: Checked 2026-11-02. 2026 AHUT guide directly read: provincial/university scholarships; English International Trade masters. No B evidence in inspected guide.
+
+## S17
+
+URL: https://is.aust.edu.cn/
+
+Assessment: Checked 2026-11-02. Official AUST portal indexed with 2026 brochure links; current brochure not downloaded. Older official PDF S18 is not current evidence.
+
+## S18
+
+URL: https://dq.aust.edu.cn/__local/6/03/31/AC55E3EF3F3E9ECFBCF6B93D77E_39BD2BF3_36088.pdf
+
+Assessment: Checked 2026-11-02. Official AUST-hosted historical admission PDF lists provincial/university funding. Mixed 2021 scholarship and 2022 admission dates; not current B evidence.
+
+## S19
+
+URL: https://gjjl.ahtcm.edu.cn/Overseas_education/Scholarship/President_Scholarship.htm
+
+Assessment: Checked 2026-11-02. AUCM official President Scholarship page: indexed detail available, direct text body sparse. University funding not CSC B. Other menus provincial/city funding.
+
+## S20
+
+URL: https://www.ahjzu.edu.cn/jlhzc/2022/1110/c10404a204588/page.htm
+
+Assessment: Checked 2026-11-02. AJZU official handbook indexed. Masters eligibility; provincial/president/Belt and Road funding. Generic JW201 mention does not prove degree Type B.
+
+## S21
+
+URL: https://gjjlc.chnu.edu.cn/lxszq/content_146484
+
+Assessment: Checked 2026-11-02. Huaibei Normal 2026 masters guide directly read: annual awards, HSK4; no B identified. No negative claim about all possible university offerings.
+
+## S22
+
+URL: https://xxgk.aqnu.edu.cn/info/1014/2338.htm
+
+Assessment: Checked 2026-11-02. Anqing Normal official international scholarship regulations indexed, university scheme; no B evidence. Admissions index retrieval timed out; 2026 international guide still to locate.
+
+## S23
+
+URL: https://www.hfuu.edu.cn/engjy/9191/listm.htm
+
+Assessment: Checked 2026-11-02. Hefei University official CSC page directly read: generic full/partial scholarship and CSC link only. School profile claims commissioned CSC training; no degree Type B confirmation. Master Programme menu has no catalogue content.
+
+## S24
+
+URL: https://admissions.xmu.edu.cn/info/1061/4630.htm
+
+Assessment: Checked 2026-11-02. Official 2027 master guide indexed full text read; explicitly B/10384, target dates, language alternatives and fee. Current detailed scholarship call still 2026.
+
+## S25
+
+URL: https://admissions.xmu.edu.cn/Programs/English_Medium_Master_s.htm
+
+Assessment: Checked 2026-11-02. Official 2027 English masters catalogue directly read; no computing entry. General majors do not prove funding eligibility for every degree.
+
+## S26
+
+URL: https://admissions.xmu.edu.cn/info/1038/1863.htm
+
+Assessment: Checked 2026-11-02. Detailed XMU scholarship page directly read is 2026. Benefits only historical; date not substituted for 2027 guide.
+
+## S27
+
+URL: https://grs.hqu.edu.cn/info/1042/25941.htm
+
+Assessment: Checked 2026-11-02. Official 2027 HQU call directly read: B/10385, two university rounds, ten nominations, HSK4. No benefit amounts stated.
+
+## S28
+
+URL: https://grs.hqu.edu.cn/info/1042/22881.htm
+
+Assessment: Checked 2026-11-02. Official 2027 HQU catalogue directly read: full-time Software Engineering and Intelligent Science and Technology. Part-time listings not treated as this award.
+
+## S29
+
+URL: https://oce.fzu.edu.cn/info/1025/7987.htm
+
+Assessment: Checked 2026-11-02. Official 2026 FZU master/doctoral guide directly read: B/10386, English civil engineering, MOI certificate, dual CSC/paper process. Contains older 2025 date remnants.
+
+## S30
+
+URL: https://iccs.fjnu.edu.cn/ed/65/c6596a453989/page.htm
+
+Assessment: Checked 2026-11-02. Official 2027 FJNU call directly read: B/10394, January 8 deadline, stipend/coverage and conditional English exemption. Opening date/major list unspecified.
