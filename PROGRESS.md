@@ -2,9 +2,9 @@
 
 Last updated date: 2026-11-02 (Asia/Karachi)
 Total universities discovered: 20
-Universities published to GitHub: 0
-New universities since last successful push: 20
-Next GitHub upload threshold: 20 total discoveries — reached; publish Batch 01 now
+Universities published to GitHub: 20
+New universities since last successful push: 0
+Next GitHub upload threshold: 40 total discoveries (20 more)
 Confirmed 2027–2028 universities: 4
 Previous-year Type B universities: 16 (some standing/undated historical notices; see evidence_session)
 Unverified universities: 0 (unresolved leads kept outside eligible university database)
@@ -19,11 +19,11 @@ Pending regions: 28 NOT_STARTED; all 32 not fully completed
 Failed sources: All source-specific failures retained in SOURCES. New exact LZU call412 even outside sandbox (S58), SYSU403 (S49/S50), SCUT timeout (S52), GDUFS PDF404 (S56), Gansu office failures (S63-S65); unverified leads not counted.
 GitHub repository: https://github.com/SareerAhmed/china-database
 GitHub authentication: verified successfully outside sandbox on 2026-11-02; HTTPS credentials available. Sandboxed gh status failure was misleading.
-Last successful push: None
-Last successful GitHub commit: None
-Publication ledger: No successful uploads; no counter reset permitted.
-Last completed research task: Batch 04: Gansu initial candidate checks saved; six unique Guangdong historical Type B institutions added; first20 publication threshold reached.
-Exact next task: Continue Guangdong after the six canonical records (SYSU, JNU, SCUT, SCAU, SUSTech, GDUFS): inspect Southern Medical University official postgraduate B call; check Shenzhen University, Guangdong University of Technology, Guangzhou University, Guangzhou Medical University, Guangzhou University of Chinese Medicine, Shantou University, Guangdong Ocean University, Foshan University and Wuyi University (Jiangmen). Resolve current calls/catalogues and dead GDUFS brochure without counting existing records again. South China Normal inspected 2026 guide is Type A only; seek separate explicit B evidence before addition. Preserve Gansu/Fujian/Anhui gaps in logs. After Guangdong initial sweep move Guizhou; regional directory audits remain pending. Next discovery milestone 40 total after successful first20 publication.
+Last successful push: 2026-11-02 — Batch 01; git push succeeded and origin/main independently verified
+Last successful GitHub commit: 3e6009ef40d2e90733763884397e346268d648ff (20-record research milestone; publication-ledger follow-up follows)
+Publication ledger: 20 canonical records confirmed on GitHub in Batch 01. Prior remote already contained the 14-record commit 163a09d despite stale local published0; reconciled after confirmed milestone push. Pending reset only after remote verification.
+Last completed research task: Batch 04: Gansu initial candidate checks saved; six unique Guangdong historical Type B institutions added; first20 publication completed and remotely verified.
+Exact next task: Continue Guangdong after the six canonical records (SYSU, JNU, SCUT, SCAU, SUSTech, GDUFS): inspect Southern Medical University official postgraduate B call; check Shenzhen University, Guangdong University of Technology, Guangzhou University, Guangzhou Medical University, Guangzhou University of Chinese Medicine, Shantou University, Guangdong Ocean University, Foshan University and Wuyi University (Jiangmen). Resolve current calls/catalogues and dead GDUFS brochure without counting existing records again. South China Normal inspected 2026 guide is Type A only; seek separate explicit B evidence before addition. Preserve Gansu/Fujian/Anhui gaps in logs. After Guangdong initial sweep move Guizhou; regional directory audits remain pending. Next discovery milestone 40 total; first20 publication confirmed.
 
 ## Region checklist
 
