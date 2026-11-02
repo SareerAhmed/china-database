@@ -14,13 +14,13 @@
   {
     "name": "Gansu",
     "type": "Province",
-    "status": "IN_PROGRESS",
+    "status": "NEEDS_VERIFICATION",
     "scope": "Mainland"
   },
   {
     "name": "Guangdong",
     "type": "Province",
-    "status": "NOT_STARTED",
+    "status": "IN_PROGRESS",
     "scope": "Mainland"
   },
   {

@@ -1,36 +1,36 @@
 # Progress
 
 Last updated date: 2026-11-02 (Asia/Karachi)
-Total universities discovered: 14
+Total universities discovered: 20
 Universities published to GitHub: 0
-New universities since last successful push: 14
-Next GitHub upload threshold: 20 total discoveries (6 more)
+New universities since last successful push: 20
+Next GitHub upload threshold: 20 total discoveries — reached; publish Batch 01 now
 Confirmed 2027–2028 universities: 4
-Previous-year Type B universities: 10
+Previous-year Type B universities: 16 (some standing/undated historical notices; see evidence_session)
 Unverified universities: 0 (unresolved leads kept outside eligible university database)
 MS AI/CS/IT universities: 5 (USTC, HFUT, AAU, HQU, XMU; instruction language varies; per-major scholarship approval still required)
-Universities accepting English Proficiency Certificates: 7 (six previously recorded plus FJMU restricted native-English instruction proof; not a general non-native MOI waiver)
-Universities with IELTS waivers: 10 conditional routes (adds FAFU country exemption and FJMU native-English instruction-proof route; evidence years vary)
+Universities accepting English Proficiency Certificates: 9 (adds JNU and SUSTech official English-medium proof; FJMU remains native-English restricted)
+Universities with IELTS waivers: 12 conditional routes; policy years and exemption scope vary
 Universities without IELTS requirements: 0 established unconditional waivers
 Universities with open 2027 CSC applications: 2 announced-open routes: USTC and HQU first university admission round; FJNU opening Unknown
 Completed regions: 0
-In-progress regions: 1 (Gansu); 2 NEEDS_VERIFICATION (Anhui, Fujian)
-Pending regions: 29 NOT_STARTED; all 32 not fully completed
-Failed sources: Prior failures retained in SOURCES. New: FZU catalogue timeout (S34); FAFU requirements PDF timeout/XLS unsupported (S31); XMUT attempted URL inaccessible (S39); AUST no readable body (S40); Anqing repeated timeout (S41); LUT 412 (S45); LZJTU university site 412/XLS unsupported (S46); LZU 412 (S47); NWNU attempted site inaccessible (S48).
+In-progress regions: 1 (Guangdong); 3 NEEDS_VERIFICATION (Anhui, Fujian, Gansu)
+Pending regions: 28 NOT_STARTED; all 32 not fully completed
+Failed sources: All source-specific failures retained in SOURCES. New exact LZU call412 even outside sandbox (S58), SYSU403 (S49/S50), SCUT timeout (S52), GDUFS PDF404 (S56), Gansu office failures (S63-S65); unverified leads not counted.
 GitHub repository: https://github.com/SareerAhmed/china-database
 GitHub authentication: verified successfully outside sandbox on 2026-11-02; HTTPS credentials available. Sandboxed gh status failure was misleading.
 Last successful push: None
 Last successful GitHub commit: None
 Publication ledger: No successful uploads; no counter reset permitted.
-Last completed research task: Batch 03: four unique additions (FAFU, FJMU, LUT, LZJTU); updated XMU Chinese computing catalogue; documented Fujian sweep and Anhui audit follow-up; began Gansu.
-Exact next task: Continue Gansu: locate official Lanzhou University 2027 high-level postgraduate call (international site returns 412; third-party lead alone insufficient), then Northwest Normal University official degree/B notice; inspect remaining Gansu candidates Northwest Minzu University, Gansu Agricultural University, Gansu University of Chinese Medicine, Lanzhou University of Finance and Economics, Tianshui Normal University and Hexi University. Retrieve LZJTU Appendix 1 and LUT current international programme catalogue when practical. Do not re-add 14 existing records. Keep Fujian/Anhui audit gaps in Batch 03; audit regional directories before marking complete. After Gansu initial sweep proceed Guangdong. Six more unique records trigger first GitHub publication at 20 pending.
+Last completed research task: Batch 04: Gansu initial candidate checks saved; six unique Guangdong historical Type B institutions added; first20 publication threshold reached.
+Exact next task: Continue Guangdong after the six canonical records (SYSU, JNU, SCUT, SCAU, SUSTech, GDUFS): inspect Southern Medical University official postgraduate B call; check Shenzhen University, Guangdong University of Technology, Guangzhou University, Guangzhou Medical University, Guangzhou University of Chinese Medicine, Shantou University, Guangdong Ocean University, Foshan University and Wuyi University (Jiangmen). Resolve current calls/catalogues and dead GDUFS brochure without counting existing records again. South China Normal inspected 2026 guide is Type A only; seek separate explicit B evidence before addition. Preserve Gansu/Fujian/Anhui gaps in logs. After Guangdong initial sweep move Guizhou; regional directory audits remain pending. Next discovery milestone 40 total after successful first20 publication.
 
 ## Region checklist
 
 - [ ] Anhui — NEEDS_VERIFICATION (Province)
 - [ ] Fujian — NEEDS_VERIFICATION (Province)
-- [ ] Gansu — IN_PROGRESS (Province)
-- [ ] Guangdong — NOT_STARTED (Province)
+- [ ] Gansu — NEEDS_VERIFICATION (Province)
+- [ ] Guangdong — IN_PROGRESS (Province)
 - [ ] Guizhou — NOT_STARTED (Province)
 - [ ] Hainan — NOT_STARTED (Province)
 - [ ] Hebei — NOT_STARTED (Province)

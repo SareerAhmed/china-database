@@ -289,3 +289,117 @@ Assessment: Checked 2026-11-02. LZU official international site direct 412. Thir
 URL: https://lxs.nwnu.edu.cn/
 
 Assessment: Checked 2026-11-02. Attempted NWNU international site inaccessible; correct admissions source still to locate. No record added based on third-party CSC lists.
+
+## S49
+
+URL: https://iso.sysu.edu.cn/en/application/guide/1420582.htm
+
+Assessment: Checked 2026-11-02. Official indexed 2026 SYSU masters guide explicitly High-Level Graduate B/10558; direct403. Catalogue attachments not inspected.
+
+## S50
+
+URL: https://iso.sysu.edu.cn/cn/jxjxm/1420658.htm
+
+Assessment: Checked 2026-11-02. Official indexed 2026 graduate scholarship call gives February15 deadline and B/10558; direct403. Not the separate undergraduate or ChinaLink call.
+
+## S51
+
+URL: https://yz.jnu.edu.cn/2026/0121/c33059a850132/page.htm
+
+Assessment: Checked 2026-11-02. Direct official JNU 2026 masters/PhD guide: explicit B/10559, university-before-CSC stages, conditional English-medium proof and funding. QR catalogue not inspected.
+
+## S52
+
+URL: https://www.scut.edu.cn/en/2025/1202/c608a58740/page.htm
+
+Assessment: Checked 2026-11-02. Full official indexed standing scholarship text: masters/PhD B/10561, recurring dates, coverage. Direct timeout. Different 2026 scanned PDF (62MB) exceeds web reader; not used for additional facts.
+
+## S53
+
+URL: https://cie.scau.edu.cn/2024/0109/c5513a365795/page.htm
+
+Assessment: Checked 2026-11-02. Direct official SCAU 2024 masters/PhD call explicitly B and dated January8-March31. Chinese/English programmes, coverage and waived application fee. Current call not established.
+
+## S54
+
+URL: https://cie.scau.edu.cn/2022/0321/c12470a308869/page.htm
+
+Assessment: Checked 2026-11-02. Direct official 2022 SCAU graduate call plus indexed text explicitly B/10564; code corroboration, not a target-year announcement.
+
+## S55
+
+URL: https://bme.sustech.edu.cn/2608.html
+
+Assessment: Checked 2026-11-02. Direct official BME departmental 2026 postgraduate guide: English masters B/14325, first-round CSC deadline, MOI waiver, separate CSC stipend/research allowance. Do not generalize BME major list to other schools.
+
+## S56
+
+URL: https://iie-en.gdufs.edu.cn/__local/9/20/83/207C301B7D423FBB3CE90F91EAA_862E9832_98AC8D.pdf
+
+Assessment: Checked 2026-11-02. Official-domain historical indexed scholarship PDF explicitly masters University Program B/11910, MBA excluded; direct404. No intake year established and no benefits copied from ambiguously merged tables.
+
+## S57
+
+URL: https://iie-en.gdufs.edu.cn/info/1174/2655.htm
+
+Assessment: Checked 2026-11-02. Official indexed 2026 general admission guide lists provincial/university funding; does not by itself confirm current CSC B. Complements but does not supersede historical evidence.
+
+## S58
+
+URL: https://sice.lzu.edu.cn/hdapp/bas/col_detail.php?id=1248
+
+Assessment: Checked 2026-11-02. Exact official 2027 LZU call discovered via third-party link. Direct web412 and curl outside sandbox412; substantive content not verified. Kept outside confirmed dataset.
+
+## S59
+
+URL: https://www.gsau.edu.cn/info/1279/58509.htm
+
+Assessment: Checked 2026-11-02. Official 2026/2027 Gansu Agricultural admissions full indexed text lists President Scholarship. Direct timeout. Not recorded as B or 2027/2028 opportunity.
+
+## S60
+
+URL: https://zysxy.lzufe.edu.cn/info/1101/2548.htm
+
+Assessment: Checked 2026-11-02. Official 2026 Lanzhou Finance international bachelor guide indexed: institutional/provincial awards. Not a masters B call.
+
+## S61
+
+URL: https://gjc.tsnu.edu.cn/info/1078/1438.htm
+
+Assessment: Checked 2026-11-02. Official historical Tianshui Normal language-scholar guide indexed: institutional and Gansu Silk Road awards; not masters CSC B.
+
+## S62
+
+URL: https://wsc.hxu.edu.cn/info/1177/1201.htm
+
+Assessment: Checked 2026-11-02. Official historical Hexi international guide indexed: language/bachelor programmes and fee reductions; not masters B evidence. Newer postgraduate options still require audit.
+
+## S63
+
+URL: https://international.nwnu.edu.cn/
+
+Assessment: Checked 2026-11-02. Attempted NWNU international subdomain inaccessible; base university site412. Current official degree-B notice not found in this limited search.
+
+## S64
+
+URL: https://gjjy.gszy.edu.cn/
+
+Assessment: Checked 2026-11-02. Gansu Chinese Medicine official international office timeout. Third-party 2026/2027 degree guide lead mentions generic CSC only; no B verification. Retained pending.
+
+## S65
+
+URL: https://gjjl.xbmu.edu.cn/
+
+Assessment: Checked 2026-11-02. Attempted Northwest Minzu international office inaccessible; other results were domestic aid rules, excluded. Correct current international admissions source remains unresolved.
+
+## S66
+
+URL: https://io.scnu.edu.cn/a/20260401/2102.html
+
+Assessment: Checked 2026-11-02. Official 2026 South China Normal masters guide indexed explicitly directs CSC applicants through embassy/dispatching authority Type A. Not added as Type B on this evidence.
+
+## S67
+
+URL: https://portal.smu.edu.cn/lxsc/
+
+Assessment: Checked 2026-11-02. Attempted Southern Medical international portal inaccessible; third-party CSC lead unverified. No record added; correct official current call pending.

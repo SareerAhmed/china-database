@@ -66,3 +66,32 @@ LUT and LZJTU recorded from explicit masters B notices. LZU official internation
 Publication: 14 unique records pending; first threshold remains 20, six more needed. No push due; no successful upload claimed or publication counter reset. Existing GitHub authentication was verified in Batch 02; no authentication changes made. All research saved locally and exports synchronized.
 
 Exact next task: Continue Gansu: locate official Lanzhou University 2027 high-level postgraduate call (international site returns 412; third-party lead alone insufficient), then Northwest Normal University official degree/B notice; inspect remaining Gansu candidates Northwest Minzu University, Gansu Agricultural University, Gansu University of Chinese Medicine, Lanzhou University of Finance and Economics, Tianshui Normal University and Hexi University. Retrieve LZJTU Appendix 1 and LUT current international programme catalogue when practical. Do not re-add 14 existing records. Keep Fujian/Anhui audit gaps in Batch 03; audit regional directories before marking complete. After Gansu initial sweep proceed Guangdong. Six more unique records trigger first GitHub publication at 20 pending.
+
+## 2026-11-02 — Batch 04 / Gansu initial sweep and Guangdong milestone
+
+Read all six Markdown files before research; reread truncated source/log sections. Existing 14-record Markdown/CSV/JSON equality checked; normalized English names, Chinese names and aliases checked before each addition. Six new unique records: Sun Yat-sen, Jinan (Guangzhou), South China University of Technology, South China Agricultural, SUSTech and Guangdong University of Foreign Studies. All historical evidence; target-year confirmed count stays4, previous-year16, total20. No duplicate additions; no existing-university research repeated to inflate discovery totals. Current calls/major catalogues still need verification; not every programme is funding-approved.
+
+### Gansu initial candidate sweep
+
+| Candidate | Evidence/result | Disposition |
+| --- | --- | --- |
+| Lanzhou University | Exact2027 call S58; web and escalated curl412 | No substantive official evidence read, no record added from third-party transcription. |
+| Northwest Normal University | S63 subdomain inaccessible, base412 | Correct international degree-B source remains pending. |
+| Northwest Minzu University | S65 inaccessible; domestic aid search hits excluded | No verified international masters B notice located. |
+| Gansu Agricultural University | S59 official2026/2027 full indexed guide | President Scholarship; not B evidence. |
+| Gansu University of Chinese Medicine | S64 timeout | Generic CSC third-party lead insufficient; explicit B still pending. |
+| Lanzhou University of Finance and Economics | S60 official2026 bachelor guide | Institutional/provincial awards; not masters B. |
+| Tianshui Normal University | S61 official historical language guide | Institutional/provincial funding; masters B unestablished. |
+| Hexi University | S62 official historical bachelor/language guide | Degree level and B both need current evidence. |
+
+Gansu marked NEEDS_VERIFICATION, not completed. LUT and LZJTU canonical records unchanged; optional catalogue downloads deferred after prior unsupported XLS failures. Regional official-directory audit remains pending. Shift to Guangdong follows saved region order and breadth-first strategy.
+
+### Guangdong initial findings
+
+SYSU2026 masters Type B and graduate deadline verified from indexed university text; direct403 explicitly retained. JNU2026 direct guide establishes university-before-CSC sequence and English-medium proof; do not confuse with University of Jinan in Shandong. SCUT standing page explicitly B, but recurring months do not establish target-intake dates. SCAU direct2024 B plus official2022 code evidence; not current-year confirmation. SUSTech evidence department-specific English Biomedical Engineering; research allowance is distinct from CSC stipend, other departments not inferred. GDUFS historical official indexed brochure confirms B but directPDF404 and exact intake unknown; current2026 general guide alone does not confirm B. Benefits withheld where merged-table text cannot establish coverage.
+
+South China Normal official2026 masters guide S66 describes Type A embassy route; no Type B record added on that evidence. Southern Medical third-party lead not confirmed; attempted portal S67 inaccessible. Wrong SCAU discovery link led to Guangzhou Dublin joint college; rejected as scholarship evidence, correct source is cie.scau.edu.cn. SCUT scanned2026 PDF exceeds web reader size; no uninspected claims imported. Remaining smaller Guangdong city institutions are saved in next task.
+
+Publication preparation: first20 discovery milestone reached. Git ls-remote outside sandbox confirms origin/main already at163a09dc690fbea5497ba53136d369b8999eeb93 (the prior14-record commit), despite stale local published0 ledger. No agent push previously recorded; prior external publication time unknown. This remote observation is retained and ledger will be reconciled to20 only after the new20-record commit is confirmed on remote. Never overwrite remote history. Pending counter20 at preparation preserves the first milestone; after successful upload it will represent total minus verified published records.
+
+Exact next task: Continue Guangdong after the six canonical records (SYSU, JNU, SCUT, SCAU, SUSTech, GDUFS): inspect Southern Medical University official postgraduate B call; check Shenzhen University, Guangdong University of Technology, Guangzhou University, Guangzhou Medical University, Guangzhou University of Chinese Medicine, Shantou University, Guangdong Ocean University, Foshan University and Wuyi University (Jiangmen). Resolve current calls/catalogues and dead GDUFS brochure without counting existing records again. South China Normal inspected 2026 guide is Type A only; seek separate explicit B evidence before addition. Preserve Gansu/Fujian/Anhui gaps in logs. After Guangdong initial sweep move Guizhou; regional directory audits remain pending. Next discovery milestone 40 total after successful first20 publication.

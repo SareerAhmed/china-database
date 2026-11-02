@@ -1,6 +1,6 @@
 # Universities — CSC Type B 2027–2028
 
-Authoritative database. Target-session dates remain Unknown unless confirmed for 2027 intake; multi-stage dates identify the university stage. Historical requirements/benefits retain their evidence year. Programme availability does not guarantee scholarship funding for every major.
+Authoritative database. Target-session dates remain Unknown unless confirmed for 2027 intake; multi-stage dates identify the university stage. Historical requirements/benefits retain their evidence year. Programme availability does not guarantee scholarship funding for every major. Indexed official evidence and failed direct access are identified in remarks and SOURCES.md.
 
 ## Anhui
 
@@ -511,3 +511,221 @@ Authoritative database. Target-session dates remain Unknown unless confirmed for
 | applications_open | Unknown |
 | source_ids | S46 |
 | remarks | University admissions-office platform explicitly B/10732 and masters; ten places across masters/PhD. University pre-admission precedes CSC. Masters age under 30, stricter than common CSC threshold. Appendix XLS not inspected; university-domain site returned 412. Published insurance amount retained without replacing with a general rate. |
+
+## Guangdong
+
+### Sun Yat-sen University
+
+| Field | Value |
+| --- | --- |
+| id | guangdong-sysu |
+| university_name | Sun Yat-sen University |
+| chinese_name | 中山大学 |
+| aliases | SYSU; Zhongshan University |
+| region | Guangdong |
+| city | Guangzhou; Zhuhai; Shenzhen (programme-dependent) |
+| csc_type_b_status | PREVIOUS_YEAR_EVIDENCE |
+| agency_number | 10558 |
+| scholarship_url | https://iso.sysu.edu.cn/cn/jxjxm/1420658.htm |
+| admissions_url | https://iso.sysu.edu.cn/en/application/guide/1420582.htm |
+| masters_programs_url | https://iso.sysu.edu.cn/en/application/guide/1420582.htm |
+| english_taught_masters | Unknown |
+| application_opening_date | Unknown |
+| application_deadline | Unknown |
+| ielts_requirement | Unknown |
+| ielts_waiver | Unknown |
+| english_proficiency_certificate | Unknown |
+| tuition_coverage | Unknown |
+| accommodation_coverage | Unknown |
+| monthly_stipend | Unknown |
+| medical_insurance | Unknown |
+| application_fee | Unknown |
+| application_portal | https://apply.sysu.edu.cn/ |
+| verification_date | 2026-11-02 |
+| evidence_session | 2026 intake |
+| evidence_opening_date | Unknown |
+| evidence_deadline | 2026-02-15: High-Level Graduate route |
+| priority_masters | Unknown |
+| applications_open | Unknown |
+| source_ids | S49; S50 |
+| remarks | Official indexed masters guide explicitly B/10558; scholarship indexed call supplies graduate deadline. Direct pages returned 403. Programme attachments and language requirements not inspected. Atomic Energy/Silk Road routes separate; undergraduate and ChinaLink evidence not used to establish masters eligibility. No 2027 confirmation. |
+
+### Jinan University
+
+| Field | Value |
+| --- | --- |
+| id | guangdong-jnu |
+| university_name | Jinan University |
+| chinese_name | 暨南大学 |
+| aliases | JNU (Guangzhou); Jinan University (Guangdong) |
+| region | Guangdong |
+| city | Guangzhou |
+| csc_type_b_status | PREVIOUS_YEAR_EVIDENCE |
+| agency_number | 10559 |
+| scholarship_url | https://yz.jnu.edu.cn/2026/0121/c33059a850132/page.htm |
+| admissions_url | https://yz.jnu.edu.cn/ |
+| masters_programs_url | https://yz.jnu.edu.cn/2026/0121/c33059a850132/page.htm |
+| english_taught_masters | Unknown |
+| application_opening_date | Unknown |
+| application_deadline | Unknown |
+| ielts_requirement | 2026: IELTS 6.5 / TOEFL 90; previous English-medium degree proof accepted; native English exempt |
+| ielts_waiver | Yes, conditional: native English or previous degree taught in English |
+| english_proficiency_certificate | Yes: proof of English-medium previous degree |
+| tuition_coverage | 2026: Covered |
+| accommodation_coverage | 2026: Covered |
+| monthly_stipend | Unknown |
+| medical_insurance | 2026: Comprehensive insurance covered |
+| application_fee | Unknown |
+| application_portal | https://yz.jnu.edu.cn/ |
+| verification_date | 2026-11-02 |
+| evidence_session | 2026 intake |
+| evidence_opening_date | 2026-01-22: university application |
+| evidence_deadline | University: 2026-03-03; CSC after nomination: 2026-03-24 |
+| priority_masters | Unknown |
+| applications_open | Unknown |
+| source_ids | S51 |
+| remarks | Explicit B/10559; university admission and college documents first, nominated applicants then CSC. All postgraduate programmes considered but per-major catalogue/English list accessed via QR not inspected. Agency distinguishes from University of Jinan in Shandong. Stipend amount and application fee Unknown. |
+
+### South China University of Technology
+
+| Field | Value |
+| --- | --- |
+| id | guangdong-scut |
+| university_name | South China University of Technology |
+| chinese_name | 华南理工大学 |
+| aliases | SCUT |
+| region | Guangdong |
+| city | Guangzhou |
+| csc_type_b_status | PREVIOUS_YEAR_EVIDENCE |
+| agency_number | 10561 |
+| scholarship_url | https://www.scut.edu.cn/en/2025/1202/c608a58740/page.htm |
+| admissions_url | https://sie.scut.edu.cn/ |
+| masters_programs_url | https://www.scut.edu.cn/en/2025/1202/c608a58740/page.htm |
+| english_taught_masters | Unknown |
+| application_opening_date | Unknown |
+| application_deadline | Unknown |
+| ielts_requirement | Unknown |
+| ielts_waiver | Unknown |
+| english_proficiency_certificate | Unknown |
+| tuition_coverage | Historical standing page: Covered |
+| accommodation_coverage | Historical standing page: Covered |
+| monthly_stipend | Historical standing page: CNY 3000/month |
+| medical_insurance | Historical standing page: Comprehensive insurance covered |
+| application_fee | Unknown |
+| application_portal | https://www.scut.edu.cn/apply |
+| verification_date | 2026-11-02 |
+| evidence_session | Standing scholarship page at 2025 URL; named intake Unknown |
+| evidence_opening_date | Recurring October; not a confirmed 2027 opening |
+| evidence_deadline | Recurring February; exact day/year Unknown |
+| priority_masters | Unknown |
+| applications_open | Unknown |
+| source_ids | S52 |
+| remarks | Official indexed full scholarship page explicitly masters B/10561; direct fetch timeout. Supervisor pre-acceptance required. Published coverage includes registration fees; separate application-submission fee Unknown. 2026 prospectus PDF too large for web reader; catalogue/language details pending. Recurring dates do not prove open 2027 applications. |
+
+### South China Agricultural University
+
+| Field | Value |
+| --- | --- |
+| id | guangdong-scau |
+| university_name | South China Agricultural University |
+| chinese_name | 华南农业大学 |
+| aliases | SCAU |
+| region | Guangdong |
+| city | Guangzhou |
+| csc_type_b_status | PREVIOUS_YEAR_EVIDENCE |
+| agency_number | 10564 |
+| scholarship_url | https://cie.scau.edu.cn/2024/0109/c5513a365795/page.htm |
+| admissions_url | https://cie.scau.edu.cn/ |
+| masters_programs_url | https://cie.scau.edu.cn/kcjrxyq/list.htm |
+| english_taught_masters | Chinese/English instruction stated; exact English masters list Unknown |
+| application_opening_date | Unknown |
+| application_deadline | Unknown |
+| ielts_requirement | Unknown |
+| ielts_waiver | Unknown |
+| english_proficiency_certificate | Unknown |
+| tuition_coverage | 2024: Waived |
+| accommodation_coverage | 2024: Free accommodation |
+| monthly_stipend | Unknown |
+| medical_insurance | 2024: Comprehensive insurance covered |
+| application_fee | 2024: Waived for this scholarship route |
+| application_portal | https://studyinchina.csc.edu.cn/ |
+| verification_date | 2026-11-02 |
+| evidence_session | 2024 intake; code corroborated by official 2022 guide |
+| evidence_opening_date | 2024-01-08 |
+| evidence_deadline | 2024-03-31 |
+| priority_masters | Unknown |
+| applications_open | Unknown |
+| source_ids | S53; S54 |
+| remarks | Direct official 2024 masters/PhD guide explicitly B; agency number corroborated in 2022 official guide. Masters 2-3 years. Stipend covered but amount Unknown. English test thresholds and priority computing catalogue not inspected. No 2027 confirmation; newer calls need review. |
+
+### Southern University of Science and Technology
+
+| Field | Value |
+| --- | --- |
+| id | guangdong-sustech |
+| university_name | Southern University of Science and Technology |
+| chinese_name | 南方科技大学 |
+| aliases | SUSTech |
+| region | Guangdong |
+| city | Shenzhen |
+| csc_type_b_status | PREVIOUS_YEAR_EVIDENCE |
+| agency_number | 14325 |
+| scholarship_url | https://bme.sustech.edu.cn/2608.html |
+| admissions_url | https://bme.sustech.edu.cn/2608.html |
+| masters_programs_url | https://bme.sustech.edu.cn/2608.html |
+| english_taught_masters | 2026: Biomedical Engineering (department-specific evidence) |
+| application_opening_date | Unknown |
+| application_deadline | Unknown |
+| ielts_requirement | 2026 BME: IELTS 6.5, each band at least 6.0 / TOEFL 90 |
+| ielts_waiver | Yes, conditional: degree taught solely in English, official university letter required |
+| english_proficiency_certificate | Yes: official university letter proving English sole medium of instruction |
+| tuition_coverage | 2026: Waived |
+| accommodation_coverage | 2026: Shared-room accommodation waived |
+| monthly_stipend | 2026 CSC: CNY 3000/month; research allowance CNY 2500/month pre-tax separately stated |
+| medical_insurance | 2026: Covered |
+| application_fee | Unknown |
+| application_portal | https://sustech.at0086.cn/ |
+| verification_date | 2026-11-02 |
+| evidence_session | 2026 intake |
+| evidence_opening_date | 2025-11-03 |
+| evidence_deadline | 2026-01-18: CSC first university round only |
+| priority_masters | Unknown |
+| applications_open | Unknown |
+| source_ids | S55 |
+| remarks | Direct official BME department notice explicitly masters B/14325. Three-year English BME verified; other departments not yet inspected. Second general admission round is not CSC deadline. Research allowance kept distinct from CSC stipend. Non-CSC university award is separate. 2027 dates Unknown. |
+
+### Guangdong University of Foreign Studies
+
+| Field | Value |
+| --- | --- |
+| id | guangdong-gdufs |
+| university_name | Guangdong University of Foreign Studies |
+| chinese_name | 广东外语外贸大学 |
+| aliases | GDUFS |
+| region | Guangdong |
+| city | Guangzhou |
+| csc_type_b_status | PREVIOUS_YEAR_EVIDENCE |
+| agency_number | 11910 |
+| scholarship_url | https://iie-en.gdufs.edu.cn/__local/9/20/83/207C301B7D423FBB3CE90F91EAA_862E9832_98AC8D.pdf |
+| admissions_url | https://iie-en.gdufs.edu.cn/ |
+| masters_programs_url | https://iie-en.gdufs.edu.cn/__local/9/20/83/207C301B7D423FBB3CE90F91EAA_862E9832_98AC8D.pdf |
+| english_taught_masters | Unknown |
+| application_opening_date | Unknown |
+| application_deadline | Unknown |
+| ielts_requirement | Unknown |
+| ielts_waiver | Unknown |
+| english_proficiency_certificate | Unknown |
+| tuition_coverage | Unknown |
+| accommodation_coverage | Unknown |
+| monthly_stipend | Unknown |
+| medical_insurance | Unknown |
+| application_fee | Unknown |
+| application_portal | https://www.campuschina.org/ |
+| verification_date | 2026-11-02 |
+| evidence_session | Undated historical brochure; exact intake Unknown |
+| evidence_opening_date | Brochure recurring December; no year confirmed |
+| evidence_deadline | Brochure recurring March; exact day/year Unknown |
+| priority_masters | Unknown |
+| applications_open | Unknown |
+| source_ids | S56; S57 |
+| remarks | Official-domain indexed PDF explicitly lists masters University Program Type B, all programmes except MBA, code11910; direct PDF now404. Historical evidence only; 2026 general notice lists other awards and does not establish current B call. Benefits/language left Unknown pending original table inspection; no merged-cell assumptions. |
