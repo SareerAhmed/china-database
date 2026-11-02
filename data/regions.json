@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Anhui",
+    "type": "Province",
+    "status": "IN_PROGRESS",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Fujian",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Gansu",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Guangdong",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Guizhou",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Hainan",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Hebei",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Heilongjiang",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Henan",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Hubei",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Hunan",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Jiangsu",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Jiangxi",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Jilin",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Liaoning",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Qinghai",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Shaanxi",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Shandong",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Shanxi",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Sichuan",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Yunnan",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Zhejiang",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Taiwan",
+    "type": "Province",
+    "status": "NOT_STARTED",
+    "scope": "Separate admission/scholarship system; no mainland CSC assumption"
+  },
+  {
+    "name": "Guangxi",
+    "type": "Autonomous region",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Inner Mongolia",
+    "type": "Autonomous region",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Ningxia",
+    "type": "Autonomous region",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Tibet (Xizang)",
+    "type": "Autonomous region",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Xinjiang",
+    "type": "Autonomous region",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Beijing",
+    "type": "Municipality",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Shanghai",
+    "type": "Municipality",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Tianjin",
+    "type": "Municipality",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  },
+  {
+    "name": "Chongqing",
+    "type": "Municipality",
+    "status": "NOT_STARTED",
+    "scope": "Mainland"
+  }
+]
