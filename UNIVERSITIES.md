@@ -253,10 +253,10 @@ Authoritative database. Target-session dates remain Unknown unless confirmed for
 | evidence_session | 2027 intake; benefits reference 2026 only |
 | evidence_opening_date | Unknown |
 | evidence_deadline | Unknown |
-| priority_masters | Unknown |
+| priority_masters | Yes: 2027 Chinese-taught Computer Science and Technology; Computer Technology; Software Engineering; Artificial Intelligence (funding subject to CSC approval) |
 | applications_open | No: opens 2026-12-01 |
-| source_ids | S24; S25; S26 |
-| remarks | 2027 masters guide explicitly confirms B. Detailed scholarship page still 2026; eligible funded majors need CSC approval. No computing major appears in inspected English catalogue; Chinese catalogue pending. Two systems required. |
+| source_ids | S24; S25; S26; S33 |
+| remarks | 2027 masters guide explicitly confirms B. Detailed scholarship page still 2026; funded majors need CSC approval. English catalogue has no computing entry; S33 confirms Chinese-taught computing/AI masters. Two systems required. |
 
 ### Huaqiao University
 
@@ -365,3 +365,149 @@ Authoritative database. Target-session dates remain Unknown unless confirmed for
 | applications_open | Unknown |
 | source_ids | S30 |
 | remarks | Explicit B. Opening date not stated, so open status Unknown. Majors/languages delegated to CSC system; no inspected computing catalogue. Supervisor acceptance letter required; submit documents through CSC and send electronic package to university as instructed. No email sent by research agent. |
+
+### Fujian Agriculture and Forestry University
+
+| Field | Value |
+| --- | --- |
+| id | fujian-fafu |
+| university_name | Fujian Agriculture and Forestry University |
+| chinese_name | 福建农林大学 |
+| aliases | FAFU |
+| region | Fujian |
+| city | Fuzhou |
+| csc_type_b_status | PREVIOUS_YEAR_EVIDENCE |
+| agency_number | 10389 |
+| scholarship_url | https://english.fafu.edu.cn/gjxyen/10578/list.psp |
+| admissions_url | https://english.fafu.edu.cn/gjxyen/10578/list.psp |
+| masters_programs_url | https://english.fafu.edu.cn/_upload/article/files/1d/39/2ae9d6904ebb8312545c4a996fb2/4a7561ce-e5bc-470b-8e1f-85b44984d6a6.xls |
+| english_taught_masters | Unknown |
+| application_opening_date | Unknown |
+| application_deadline | Unknown |
+| ielts_requirement | 2026: IELTS 6.5 / TOEFL 85 or equivalent proof for applicants from countries without official English |
+| ielts_waiver | Yes, conditional: English-speaking country applicants exempt from language proof |
+| english_proficiency_certificate | Unknown |
+| tuition_coverage | Unknown |
+| accommodation_coverage | Unknown |
+| monthly_stipend | Unknown |
+| medical_insurance | Unknown |
+| application_fee | 2026: CNY 500 or USD 80, requested during admission process |
+| application_portal | http://admission.fafu.edu.cn/Account/Login/ |
+| verification_date | 2026-11-02 |
+| evidence_session | 2026 intake |
+| evidence_opening_date | Unknown |
+| evidence_deadline | 2026-02-15: both CSC and university systems |
+| priority_masters | Unknown |
+| applications_open | Unknown |
+| source_ids | S31 |
+| remarks | Explicit CSC B/10389 in section IV. April 30 general deadline does not apply to CSC. Funding detail in section IV(II) belongs to provincial/university awards; not imported into CSC fields. English programme list not inspected: XLS unsupported; CSC requirements attachment timed out. Equivalent proof does not establish unrestricted university MOI acceptance. |
+
+### Fujian Medical University
+
+| Field | Value |
+| --- | --- |
+| id | fujian-fjmu |
+| university_name | Fujian Medical University |
+| chinese_name | 福建医科大学 |
+| aliases | FJMU |
+| region | Fujian |
+| city | Fuzhou |
+| csc_type_b_status | PREVIOUS_YEAR_EVIDENCE |
+| agency_number | 10392 |
+| scholarship_url | https://oec.fjmu.edu.cn/en/2025/1229/c4070a212652/page.htm |
+| admissions_url | https://oec.fjmu.edu.cn/en/ |
+| masters_programs_url | https://oec.fjmu.edu.cn/en/2025/1229/c4070a212652/page.htm |
+| english_taught_masters | English or Chinese instruction stated for medical programmes; per-major mapping Unknown |
+| application_opening_date | Unknown |
+| application_deadline | Unknown |
+| ielts_requirement | 2026: IELTS 6.0 (bands 5.0); conflicting TOEFL requirements: eligibility iBT 85 (sections 20), documents 70; clarification needed |
+| ielts_waiver | Yes, conditional: native English applicants directed to submit school English-instruction proof |
+| english_proficiency_certificate | Yes, restricted: school English-instruction proof for native English applicants; non-native MOI alternative Unknown |
+| tuition_coverage | 2026: Covered |
+| accommodation_coverage | 2026: Covered |
+| monthly_stipend | Unknown |
+| medical_insurance | 2026: Comprehensive insurance covered |
+| application_fee | Unknown |
+| application_portal | https://studyinfjmu.fjmu.edu.cn/ |
+| verification_date | 2026-11-02 |
+| evidence_session | 2026 intake |
+| evidence_opening_date | 2025-12-20 |
+| evidence_deadline | 2026-01-31 |
+| priority_masters | No computing field identified in listed medical disciplines |
+| applications_open | Unknown |
+| source_ids | S32 |
+| remarks | Explicit B/10392; three-year masters, ten seats across degree levels. Stipend included but amount Unknown. Supervisor pre-acceptance and college pre-admission required. 2027 eligibility unconfirmed. English policy conflicts preserved rather than reconciled by assumption. |
+
+## Gansu
+
+### Lanzhou University of Technology
+
+| Field | Value |
+| --- | --- |
+| id | gansu-lut |
+| university_name | Lanzhou University of Technology |
+| chinese_name | 兰州理工大学 |
+| aliases | LUT; Gansu University of Technology (former name) |
+| region | Gansu |
+| city | Lanzhou |
+| csc_type_b_status | PREVIOUS_YEAR_EVIDENCE |
+| agency_number | 10731 |
+| scholarship_url | https://gjy.lut.edu.cn/info/1187/3185.htm |
+| admissions_url | https://gjy.lut.edu.cn/zsxx/jxj.htm |
+| masters_programs_url | https://gjy.lut.edu.cn/info/1187/3185.htm |
+| english_taught_masters | Unknown: historical CSC guide requires HSK4 |
+| application_opening_date | Unknown |
+| application_deadline | Unknown |
+| ielts_requirement | Unknown: inspected scholarship guide requires HSK4 instead |
+| ielts_waiver | Unknown |
+| english_proficiency_certificate | Unknown |
+| tuition_coverage | 2024 guide: Waived |
+| accommodation_coverage | 2024 guide: Waived |
+| monthly_stipend | 2024 guide: CNY 3000/month |
+| medical_insurance | 2024 guide: Comprehensive insurance covered |
+| application_fee | Unknown |
+| application_portal | https://lut.at0086.cn/StuApplication/Login.aspx |
+| verification_date | 2026-11-02 |
+| evidence_session | 2024 published guide; recurring window only |
+| evidence_opening_date | Historical standing rule: early December; year not specified |
+| evidence_deadline | Historical standing rule: end of February; no dated 2027 deadline |
+| priority_masters | Unknown |
+| applications_open | Unknown |
+| source_ids | S45 |
+| remarks | Official university indexed full text explicitly B/10731 and masters. Direct retrieval 412; retain indexed provenance. Programme catalogue link not inspected. Separate 2027 AI summer-school notice is short-term and excluded. No future opening inferred from recurring dates. |
+
+### Lanzhou Jiaotong University
+
+| Field | Value |
+| --- | --- |
+| id | gansu-lzjtu |
+| university_name | Lanzhou Jiaotong University |
+| chinese_name | 兰州交通大学 |
+| aliases | LZJTU |
+| region | Gansu |
+| city | Lanzhou |
+| csc_type_b_status | PREVIOUS_YEAR_EVIDENCE |
+| agency_number | 10732 |
+| scholarship_url | https://lzjtu.17gz.org/html/article_content/202511/D0AB95B11BC54A4DAE8BC709E8B0CFB5.shtml |
+| admissions_url | https://sie.lzjtu.edu.cn/ |
+| masters_programs_url | https://a.17gz.org/upload/image/2025/11_110732/NEWS/78dc4822aea94afcb4ff28bdc6a4eef8.xls |
+| english_taught_masters | None under inspected 2026 call: instruction Chinese |
+| application_opening_date | Unknown |
+| application_deadline | Unknown |
+| ielts_requirement | Not specified for this Chinese-taught route; HSK4 at least 200 required |
+| ielts_waiver | Unknown |
+| english_proficiency_certificate | Unknown |
+| tuition_coverage | 2026: Covered |
+| accommodation_coverage | 2026: Free university dormitory |
+| monthly_stipend | 2026: CNY 3000/month |
+| medical_insurance | 2026 notice: CNY 1000/person/year (as published) |
+| application_fee | 2026: CNY 400 non-refundable registration fee after admission |
+| application_portal | http://lzjtu.17gz.org/ |
+| verification_date | 2026-11-02 |
+| evidence_session | 2026 intake |
+| evidence_opening_date | 2025-11-01 |
+| evidence_deadline | 2026-03-20 |
+| priority_masters | Unknown |
+| applications_open | Unknown |
+| source_ids | S46 |
+| remarks | University admissions-office platform explicitly B/10732 and masters; ten places across masters/PhD. University pre-admission precedes CSC. Masters age under 30, stricter than common CSC threshold. Appendix XLS not inspected; university-domain site returned 412. Published insurance amount retained without replacing with a general rate. |

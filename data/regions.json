@@ -8,13 +8,13 @@
   {
     "name": "Fujian",
     "type": "Province",
-    "status": "IN_PROGRESS",
+    "status": "NEEDS_VERIFICATION",
     "scope": "Mainland"
   },
   {
     "name": "Gansu",
     "type": "Province",
-    "status": "NOT_STARTED",
+    "status": "IN_PROGRESS",
     "scope": "Mainland"
   },
   {

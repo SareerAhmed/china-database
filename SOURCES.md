@@ -181,3 +181,111 @@ Assessment: Checked 2026-11-02. Official 2026 FZU master/doctoral guide directly
 URL: https://iccs.fjnu.edu.cn/ed/65/c6596a453989/page.htm
 
 Assessment: Checked 2026-11-02. Official 2027 FJNU call directly read: B/10394, January 8 deadline, stipend/coverage and conditional English exemption. Opening date/major list unspecified.
+
+## S31
+
+URL: https://english.fafu.edu.cn/gjxyen/10578/list.psp
+
+Assessment: Checked 2026-11-02. FAFU official 2026 admissions page directly read: explicit B/10389, February 15 dual-system deadline, English criteria and fee. Section IV(II) funding belongs to different awards; left CSC benefits Unknown. Linked catalogue unsupported XLS; CSC PDF timeout.
+
+## S32
+
+URL: https://oec.fjmu.edu.cn/en/2025/1229/c4070a212652/page.htm
+
+Assessment: Checked 2026-11-02. FJMU official 2026 degree call directly read: B/10392, dates, coverage and medical masters. TOEFL threshold conflict between eligibility and document sections preserved. Native English applicants still asked for school instruction proof.
+
+## S33
+
+URL: https://admissions.xmu.edu.cn/Programs/Chinese_Medium_Master_s.htm
+
+Assessment: Checked 2026-11-02. Official 2027 Chinese masters catalogue directly read; computing/AI entries confirmed. Existing XMU record updated, not counted new; CSC funding per major not established.
+
+## S34
+
+URL: https://oce.fzu.edu.cn/info/1025/7982.htm
+
+Assessment: Checked 2026-11-02. FZU Chinese masters catalogue retrieval timed out; no new programme claim added.
+
+## S35
+
+URL: https://oes.mnnu.edu.cn/info/1024/5857.htm
+
+Assessment: Checked 2026-11-02. MNNU official 2026 guide indexed full text: provincial/university and International Chinese Language Teachers awards; no CSC B degree evidence in inspected guide.
+
+## S36
+
+URL: https://yjsy.fjtcm.edu.cn/2025/0106/c501a101452/page.htm
+
+Assessment: Checked 2026-11-02. Fujian TCM official 2025 international masters guide indexed: self-funded full-time study. No B evidence established; not a universal ineligibility finding.
+
+## S37
+
+URL: https://www.qztc.edu.cn/wsbyww/mainm.htm
+
+Assessment: Checked 2026-11-02. Quanzhou Normal official international office index read: institutional scholarship form; no inspected degree Type B call. Pending detailed guide.
+
+## S38
+
+URL: https://zsb.jmu.edu.cn/lxszs/I2026gjxszs.htm
+
+Assessment: Checked 2026-11-02. Jimei official 2026 international admissions category directly read but no brochure body exposed. Third-party reproduced provincial/university awards used only as lead; no B record added.
+
+## S39
+
+URL: https://iec.xmut.edu.cn/info/1059/2775.htm
+
+Assessment: Checked 2026-11-02. Attempted XMUT university-domain counterpart to third-party brochure URL inaccessible. Third-party guide claims not used for confirmation. Need locate actual official notice.
+
+## S40
+
+URL: https://is.aust.edu.cn/
+
+Assessment: Checked 2026-11-02. Resume audit: direct AUST page no readable lines; indexed 2026 brochure links present, attachment still unresolved. Do not repeatedly restart historical search.
+
+## S41
+
+URL: https://gjjl.aqnu.edu.cn/wgrlh/lxs.htm
+
+Assessment: Checked 2026-11-02. Resume audit: Anqing index timed out again; base international office also timeout. 2026 guide remains pending.
+
+## S42
+
+URL: https://www.bbmu.edu.cn/info/1038/79313.htm
+
+Assessment: Checked 2026-11-02. Official 2026 Bengbu Medical masters admissions indexed full text; provincial/university funding and subsidy. No B evidence in inspected notice.
+
+## S43
+
+URL: https://www.ahstu.edu.cn/gjjlhz/info/1047/3117.htm
+
+Assessment: Checked 2026-11-02. Official 2025 Anhui Science and Technology international guide indexed. Current Type B not established; held as audit lead, no canonical B record added.
+
+## S44
+
+URL: https://wsc.wnmc.edu.cn/info/1004/7621.htm
+
+Assessment: Checked 2026-11-02. Official Wannan international 2026/2027 awards notice directly read: freshman/academic/Anhui provincial schemes; not CSC B evidence. Degree admissions still require further inspection.
+
+## S45
+
+URL: https://gjy.lut.edu.cn/info/1187/3185.htm
+
+Assessment: Checked 2026-11-02. Official LUT 2024 masters/PhD notice full indexed text explicitly B/10731, funding, HSK4 and recurring dates; direct 412. Recurrence is not target-session confirmation.
+
+## S46
+
+URL: https://lzjtu.17gz.org/html/article_content/202511/D0AB95B11BC54A4DAE8BC709E8B0CFB5.shtml
+
+Assessment: Checked 2026-11-02. University admissions-office platform guide directly read: 2026 masters B/10732; Chinese instruction, stricter age/HSK, funding. University homepage linked from notice but 412. XLS reader unsupported.
+
+## S47
+
+URL: https://sice.lzu.edu.cn/
+
+Assessment: Checked 2026-11-02. LZU official international site direct 412. Third-party 2027 notice discovered but official substantive evidence not obtained; not added as confirmed or historical opportunity.
+
+## S48
+
+URL: https://lxs.nwnu.edu.cn/
+
+Assessment: Checked 2026-11-02. Attempted NWNU international site inaccessible; correct admissions source still to locate. No record added based on third-party CSC lists.
